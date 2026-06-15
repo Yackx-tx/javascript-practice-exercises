@@ -26,4 +26,4 @@ function palindromeCheck(stringInput) {
 
 }
 
-palindromeCheck('Mad#am');
+palindromeCheck('Madam');
